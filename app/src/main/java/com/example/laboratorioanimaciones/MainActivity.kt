@@ -18,7 +18,7 @@ class MainActivity : ComponentActivity() {
                 Surface(
                     modifier = Modifier.fillMaxSize()
                 ) {
-                    Ejercicio2Color()
+                    Ejercicio4Contenido()
                 }
             }
         }
